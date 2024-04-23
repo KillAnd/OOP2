@@ -11,5 +11,6 @@ public class Main {
 
             ServiceStation station = new ServiceStation();
             station.check(truck2);
+            station.check(truck);
     }
 }
